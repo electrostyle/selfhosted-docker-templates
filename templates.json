@@ -6576,9 +6576,10 @@
 				{
 					"bind": "/portainer/Files/AppData/Config/ZNC",
 					"container": "/config"
-				},
-		
-			{   
+				}
+			]
+		},
+		{
 			"categories": [
 	            "Other"
 	        ],
